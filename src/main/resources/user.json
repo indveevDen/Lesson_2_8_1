@@ -1,0 +1,17 @@
+{
+  "myName": "Peter",
+  "birthday": "08-04-1984",
+  "games": [
+    "Age of Empaires",
+    "Starcraft",
+    "Warcraft"
+  ],
+  "father": {
+    "myName": "Mikhail",
+    "birthday": "02-07-1961",
+    "games": [
+      "Autopilot",
+      "Fly Simulator"
+    ]
+  }
+}

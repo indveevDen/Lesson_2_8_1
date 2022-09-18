@@ -1,2 +1,4 @@
-package org.example;public class Animal {
+package org.example;
+
+public abstract class Animal {
 }
